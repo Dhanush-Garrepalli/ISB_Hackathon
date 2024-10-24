@@ -14,3 +14,4 @@ accelerate
 plotly
 Pillow==9.4.0
 pip==24.2
+setuptools
