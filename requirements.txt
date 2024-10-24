@@ -6,3 +6,4 @@ transformers
 matplotlib
 Pillow
 scikit-learn
+xgboost
