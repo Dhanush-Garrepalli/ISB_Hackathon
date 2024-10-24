@@ -1,5 +1,5 @@
 streamlit==1.8.0
-numpy==1.24.4
+numpy>=1.25.0
 pandas==2.0.3
 matplotlib==3.7.1
 scikit-learn==1.2.2
@@ -14,4 +14,5 @@ accelerate
 plotly
 Pillow==9.4.0
 pip==24.2
-setuptools
+setuptools>=65.5.0
+wheel
