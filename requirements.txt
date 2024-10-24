@@ -12,7 +12,7 @@ transformers
 safetensors
 accelerate
 plotly
-Pillow==9.4.0
+Pillow>=9.5.0
 pip==24.2
 setuptools>=65.5.0
 wheel
