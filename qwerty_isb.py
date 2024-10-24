@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 from PIL import Image
 import importlib
+import xgboost
 
 # Define a function to download the file from the URL if not present locally
 def download_file(url, destination):
